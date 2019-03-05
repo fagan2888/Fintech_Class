@@ -12,9 +12,18 @@ plotly need to sign in
 
 * [Topic 1 : 政治重大事件分析](https://plot.ly/~jeff20628m/0/event-vs-date/)
 
-example :
-![alt text]()
+Example :
 
+![alt text](https://github.com/jeff20628m/Fintech_Class/blob/master/Week1/img/events.png)
 
 * [Topic 2 : 政治人物與政治重大事件關係分析](https://plot.ly/~jeff20628m/2/)
+
+Example :
+
+![alt text](https://github.com/jeff20628m/Fintech_Class/blob/master/Week1/img/people_event.png)
+
 * [Topic 3 : 政治人物、政治重大事件以及其關係重疊分析](https://plot.ly/~jeff20628m/4/)
+
+Example :
+
+![alt text](https://github.com/jeff20628m/Fintech_Class/blob/master/Week1/img/people-events_all.png)
