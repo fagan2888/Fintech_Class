@@ -35,6 +35,11 @@ plotly.tools.set_credentials_file(username='<YOUR_ACCOUNT>', api_key='<YOUR_API_
 * jieba_data : jieba_library 所需的資料庫
 * politician : 政治人物圖片以及文字雲圖片
 
+### Fix 
+
+* 在爬蟲地方做出修改，將爬蟲公式統一一致化，方便未來製作不同新聞網站爬蟲
+* 新增中國時報爬蟲、為了平衡報紙政黨性而新增
+
 ### Resourse
 
 [Most information you need here 'MiccWan/GitHub'](https://github.com/MiccWan/Political-News-Analysis)
