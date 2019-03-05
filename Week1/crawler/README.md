@@ -10,7 +10,7 @@
 
 # WordCloud 文字雲
 
-* wordcloud : 可以將扒下來的文字製作成文字雲
+* wordcloud : 可以將爬下來的文字製作成文字雲
 
 example : 
 蔡英文 from 2019-01-01 ~ 2019-02-28
