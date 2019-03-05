@@ -38,3 +38,4 @@ plotly.tools.set_credentials_file(username='<YOUR_ACCOUNT>', api_key='<YOUR_API_
 ### Resourse
 
 [Most information you need here 'MiccWan/GitHub'](https://github.com/MiccWan/Political-News-Analysis)
+
