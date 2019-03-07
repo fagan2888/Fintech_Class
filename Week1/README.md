@@ -10,6 +10,12 @@
 ![alt text](https://github.com/jeff20628m/Fintech_Class/blob/master/Week1/img/news_crawler_Diagram.png)
 
 
+### Final visalization
+
+政治人物、政治事件以及其相關性堆疊圖
+
+![alt text](https://github.com/jeff20628m/Fintech_Class/blob/master/Week1/img/people-events_all.png)
+
 ### Install
 
 ``` python 
